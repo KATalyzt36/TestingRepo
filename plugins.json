@@ -1,10 +1,8 @@
 [
-  "packageName": "com.KAT",
-  "plugins": [
-    {
-      "name": "NeverLog",
-      "mainClassName": "NeverLog",
-      "url": "https://github.com/KATalyzt36/TestingRepo/NeverLog.jar"
-    }
-  ]
+  {
+    "name": "NeverLog",
+    "packageId": "NeverLog",
+    "mainClassName": "NeverLog",
+    "url": "https://github.com/KATalyzt36/TestingRepo/NeverLog.jar"
+  }
 ]
